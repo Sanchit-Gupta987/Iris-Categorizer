@@ -11,6 +11,8 @@ When the "Predict" button is clicked, the app uses the trained model to predict 
 ## Deployment Location
 
 Currently deployed on streamlit - https://sg-ml-demonstration.streamlit.app/ 
+<small>PS: Might have to click a reactivate button</small>
+
 ## How to Run
 
 1.  **Install Dependencies:**
